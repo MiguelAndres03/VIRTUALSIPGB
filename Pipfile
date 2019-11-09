@@ -9,7 +9,7 @@ verify_ssl = true
 django = "*"
 djangorestframework = "*"
 django-heroku = "*"
-guicorn = "*"
+gunicorn = "*"
 
 [requires]
 python_version = "3.7"
